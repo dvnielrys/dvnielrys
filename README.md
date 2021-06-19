@@ -8,7 +8,7 @@ I’m interested in machine learning algorithms and their applications to solve
 
 real problems. I still learning about it.
 
-Here, you'll find some projects of my projects.
+Here, you'll find some of my projects.
 
 <!---
 dvnielrys/dvnielrys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
